@@ -1,0 +1,16 @@
+rowid,hometeam,homescore,awayteam,awayscore,winnerteam,winnerhomeoraway,margin,total
+1,Bears,20,Buccaneers,19,Bears,home,1,39
+2,Falcons,16,Panthers,23,Panthers,away,-7,39
+3,Ravens,27,Bengals,3,Ravens,home,24,30
+4,Texans,30,Jaguars,14,Texans,home,16,44
+5,Chiefs,32,Raiders,40,Chiefs,home,-8,72
+6,Patriots,0,Broncos,0,Broncos,away,0,0
+7,Jets,10,Cardinals,30,Cardinals,away,-20,40
+8,Steelers,38,Eagles,29,Steelers,home,9,67
+9,Titans,0,Bills,0,Bills,away,0,0
+10,Redskins,10,Rams,30,Rams,away,-20,40
+11,49ers,17,Dolphins,43,49ers,home,-26,60
+12,Browns,32,Colts,23,Browns,home,9,55
+13,Cowboys,37,Giants,34,Cowboys,home,3,71
+14,Seahawks,27,Vikings,26,Seahawks,home,1,53
+15,Saints,0,Chargers,0,Saints,home,0,0
